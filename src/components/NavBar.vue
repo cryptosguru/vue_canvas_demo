@@ -179,7 +179,7 @@ const logout = () => {
           />
         </nav-bar-item>
         <nav-bar-item
-          href="https://github.com/justboil/admin-one-vue-tailwind"
+          href="https://github.com/jackalstar88/vue_canvas_demo"
           has-divider
           is-desktop-icon-only
         >

@@ -87,7 +87,7 @@ export default [
       target: '_blank'
     },
     {
-      href: 'https://github.com/justboil/admin-one-vue-tailwind',
+      href: 'https://github.com/jackalstar88/vue_canvas_demo',
       label: 'GitHub',
       icon: mdiGithub,
       target: '_blank'

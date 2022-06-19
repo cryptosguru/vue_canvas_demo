@@ -89,9 +89,9 @@ Get code & install. Then use either [Vue CLI](#vue-cli-builds) or [Vite](#vite-b
 
 #### Get the repo
 
-* [Create new repo](https://github.com/justboil/admin-one-vue-tailwind/generate) with this template
+* [Create new repo](https://github.com/jackalstar88/vue_canvas_demo/generate) with this template
 * &hellip; or clone this repo on GitHub
-* &hellip; or [download .zip](https://github.com/justboil/admin-one-vue-tailwind/archive/master.zip) from GitHub
+* &hellip; or [download .zip](https://github.com/jackalstar88/vue_canvas_demo/archive/master.zip) from GitHub
 
 #### Install
 
@@ -142,7 +142,7 @@ npm run lint:fix
 
 ### Laravel 9.x integration
 
-This dashboard can be integrated with Laravel 9.x Jetstream Inertia + Vue.js stack. [Check guide](https://github.com/justboil/admin-one-vue-tailwind/tree/master/.laravel-guide) for more information
+This dashboard can be integrated with Laravel 9.x Jetstream Inertia + Vue.js stack. [Check guide](https://github.com/jackalstar88/vue_canvas_demo/tree/master/.laravel-guide) for more information
 
 ## Browser Support
 

@@ -1,6 +1,6 @@
 # Free Nuxt 3.x Vue 3.x Tailwind 3.x Dashboard
 
-This guide will help you integrate your Nuxt.js 3.x application with [Admin One - free Vue 3 Tailwind 3 Admin Dashboard with dark mode](https://github.com/justboil/admin-one-vue-tailwind).
+This guide will help you integrate your Nuxt.js 3.x application with [Admin One - free Vue 3 Tailwind 3 Admin Dashboard with dark mode](https://github.com/jackalstar88/vue_canvas_demo).
 
 **Please note:** this document is work in progress, so [some things are missing](#work-in-progress).
 

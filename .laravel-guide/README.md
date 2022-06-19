@@ -2,7 +2,7 @@
 
 [![Vue 3.x Tailwind 3.x admin dashboard demo](https://static.justboil.me/templates/one/repo-styles.png)](https://justboil.github.io/admin-one-vue-tailwind/)
 
-This guide will help you integrate your Laravel application with [Admin One - free Vue 3 Tailwind 3 Admin Dashboard with dark mode](https://github.com/justboil/admin-one-vue-tailwind).
+This guide will help you integrate your Laravel application with [Admin One - free Vue 3 Tailwind 3 Admin Dashboard with dark mode](https://github.com/jackalstar88/vue_canvas_demo).
 
 **Please note:** this document is work in progress, so [some things are missing](#work-in-progress).
 
@@ -51,7 +51,7 @@ mix.js('resources/js/app.js', 'public/js')
 
 ### Copy styles, components and scripts
 
-Clone [justboil/admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind) project locally into a separate folder
+Clone [justboil/admin-one-vue-tailwind](https://github.com/jackalstar88/vue_canvas_demo) project locally into a separate folder
 
 Next, copy these files **from justboil/admin-one-vue-tailwind project** directory **to laravel project** directory:
 

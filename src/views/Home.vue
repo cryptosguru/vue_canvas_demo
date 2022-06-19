@@ -56,13 +56,13 @@ const darkMode = computed(() => mainStore.darkMode)
     >
       Please star this project on
       <a
-        href="https://github.com/justboil/admin-one-vue-tailwind"
+        href="https://github.com/jackalstar88/vue_canvas_demo"
         class="underline"
         target="_blank"
       >GitHub</a>
       <template #right>
         <jb-button
-          href="https://github.com/justboil/admin-one-vue-tailwind"
+          href="https://github.com/jackalstar88/vue_canvas_demo"
           :icon="mdiGithub"
           :outline="darkMode"
           label="GitHub"
