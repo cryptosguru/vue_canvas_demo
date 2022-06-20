@@ -109,7 +109,7 @@ const logout = () => {
         <nav-bar-menu has-divider>
           <nav-bar-item-label
             :icon="mdiMenu"
-            label="Sample menu"
+            label="menu"
           />
 
           <template #dropdown>

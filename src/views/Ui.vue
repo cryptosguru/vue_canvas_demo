@@ -26,6 +26,7 @@ import Field from '@/components/Field.vue'
 import CheckRadioPicker from '@/components/CheckRadioPicker.vue'
 import BottomOtherPagesSection from '@/components/BottomOtherPagesSection.vue'
 import TitleSubBar from '@/components/TitleSubBar.vue'
+import Level from '@/components/Level.vue'
 
 const titleStack = ref(['Admin', 'UI Components'])
 
@@ -83,7 +84,33 @@ const darkModeToggle = () => {
 
   <title-bar :title-stack="titleStack" />
 
-  <hero-bar>UI Components</hero-bar>
+  <hero-bar>Canvas</hero-bar>
+
+  <level>
+      <h1 class="text-3xl font-semibold leading-tight">
+        <slot />
+      </h1>
+      <jb-button
+        label="This is very big About"
+        :icon="mdiThemeLightDark"
+        :outline="darkMode"
+        @click="darkModeToggle"
+      />
+
+      <jb-button
+        label="Pieces"
+        :icon="mdiThemeLightDark"
+        :outline="darkMode"
+        @click="darkModeToggle"
+      />
+
+      <jb-button
+        label="Staking"
+        :icon="mdiThemeLightDark"
+        :outline="darkMode"
+        @click="darkModeToggle"
+      />
+    </level>
 
   <titled-section first>
     Dark mode

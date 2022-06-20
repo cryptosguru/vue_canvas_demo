@@ -51,7 +51,7 @@ const routes = [
   },
   {
     meta: {
-      title: 'Ui'
+      title: 'Canvas'
     },
     path: '/ui',
     name: 'ui',

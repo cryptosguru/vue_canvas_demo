@@ -79,10 +79,10 @@ const checked = (isChecked, client) => {
 <template>
   <modal-box
     v-model="isModalActive"
-    title="Sample modal"
+    title="modal"
   >
     <p>Lorem ipsum dolor sit amet <b>adipiscing elit</b></p>
-    <p>This is sample modal</p>
+    <p>This is modal</p>
   </modal-box>
 
   <modal-box
@@ -92,7 +92,7 @@ const checked = (isChecked, client) => {
     has-cancel
   >
     <p>Lorem ipsum dolor sit amet <b>adipiscing elit</b></p>
-    <p>This is sample modal</p>
+    <p>This is modal</p>
   </modal-box>
 
   <div
