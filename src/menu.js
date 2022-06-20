@@ -3,7 +3,7 @@ import {
   mdiDesktopMac,
   mdiSquareEditOutline,
   mdiTable,  
-  mdiTelevisionGuide,
+  mdiTelevisionGuide
 } from '@mdi/js'
 
 export default [
@@ -29,7 +29,7 @@ export default [
     },
     {
       to: '/ui',
-      label: 'Ui',
+      label: 'Canvas',
       icon: mdiTelevisionGuide
     },
     {
