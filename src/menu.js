@@ -2,7 +2,7 @@ import {
   mdiAccountCircle,
   mdiDesktopMac,
   mdiSquareEditOutline,
-  mdiTable,  
+  mdiTable,
   mdiTelevisionGuide
 } from '@mdi/js'
 
@@ -29,7 +29,7 @@ export default [
     },
     {
       to: '/ui',
-      label: 'UI',
+      label: 'Canvas',
       icon: mdiTelevisionGuide
     },
     {
