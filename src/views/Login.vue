@@ -12,7 +12,7 @@ import JbButton from '@/components/JbButton.vue'
 import JbButtons from '@/components/JbButtons.vue'
 
 const form = reactive({
-  login: 'john.doe',
+  login: 'john',
   pass: 'highly-secure-password-fYjUw-',
   remember: ['remember']
 })

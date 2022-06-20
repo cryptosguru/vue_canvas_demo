@@ -54,11 +54,11 @@ export default [
       label: 'Profile',
       icon: mdiAccountCircle
     },
-    {
+    /*{
       to: '/login',
       label: 'Login',
       icon: mdiLock
-    },
+    },*/
     {
       to: '/error',
       label: 'Error',
