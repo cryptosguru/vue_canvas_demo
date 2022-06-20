@@ -29,7 +29,7 @@ export default [
     },
     {
       to: '/ui',
-      label: 'Canvas',
+      label: 'Ui',
       icon: mdiTelevisionGuide
     },
     {
